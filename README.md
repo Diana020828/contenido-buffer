@@ -20,8 +20,11 @@ https://raw.githubusercontent.com/Diana020828/contenido-buffer/main/<cuenta>/<pi
       carrusel-04-tutores/
       carrusel-05-senales/
       radar-01-php2shell/         01..08.png + linkedin-v2.pdf
+      radar-03-automatizaciones-caducan/ 01..08.png + linkedin-v2.pdf
+      corto-03-agente-lento/      01.png
     diana/
       semana-2026-10-26/          una imagen por pieza
+      semana-2026-11-05/          una imagen por pieza
 
 Cada cuenta va en su carpeta, `vulcano/` y `diana/`, para que las piezas de una marca nunca se
 mezclen con las de la otra.
